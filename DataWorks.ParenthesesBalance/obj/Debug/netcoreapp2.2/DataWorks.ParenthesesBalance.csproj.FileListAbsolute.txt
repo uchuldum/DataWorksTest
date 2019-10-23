@@ -1,0 +1,9 @@
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\bin\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.deps.json
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\bin\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.dll
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\bin\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.pdb
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.csprojAssemblyReference.cache
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.csproj.CoreCompileInputs.cache
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.AssemblyInfoInputs.cache
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.AssemblyInfo.cs
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.dll
+C:\Users\Uran\Desktop\DataWorks\DataWorks.ParenthesesBalance\obj\Debug\netcoreapp2.2\DataWorks.ParenthesesBalance.pdb

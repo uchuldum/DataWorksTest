@@ -1,0 +1,9 @@
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\bin\Debug\netcoreapp2.2\DoubleLinkedList.deps.json
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\bin\Debug\netcoreapp2.2\DoubleLinkedList.dll
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\bin\Debug\netcoreapp2.2\DoubleLinkedList.pdb
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.dll
+C:\Users\Uran\Desktop\DataWorks\DoubleLinkedList\obj\Debug\netcoreapp2.2\DoubleLinkedList.pdb
